@@ -109,11 +109,36 @@ body{
   background-size: cover;
 }
 
+.content-container{
+  position: relative;
+  display: block;
+  height: 70%;
+}
+
 section.content{
   background: #fff;
   padding: 10px;
+  position: relative;
 }
 
-img{
+.orbit img{
   min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+.orbit{
+  margin-top: 5%;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.top-bar{
+  background:#BD4B29;
+  color: white;
+}
+
+.dropdown menu{
+  background: #BD4B29;
 }
