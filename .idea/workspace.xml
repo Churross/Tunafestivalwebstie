@@ -2,183 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9167dc1a-4c13-4153-b8fd-8c39018f7bca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Master_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Tue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/VAA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background-festival.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-00.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2010/noche-banner-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2012/noche-banner-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2013/noche-de-tuna-2013-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2014/tunafestival_2014_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2015/NdT-2015_websitebanner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_04.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_06.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_07.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_08.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_09.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/2016/Tunafestival2016_banners_22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bullettree-current.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bullettree-level0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bullettree-level1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bullettree-level2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bullettree-level3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/city-dynamiek.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dearns.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/emailButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/frajaweb_logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-arrow-blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-arrow-s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-module-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-module-dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-text-blockquote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/indent1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/indent2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/indent3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/kroeg2009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leftside-bg-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leftside-bg-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-blue-bg-l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-blue-bg-r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-green-bg-l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-green-bg-r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-grey-bg-l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-grey-bg-r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-yellow-bg-l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/module-box-yellow-bg-r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/noche2008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nochedetuna01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/parkplaza.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pathway-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pdf_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/printButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/promo-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rightside-bg-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rightside-bg-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sfse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/Hurks2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/Level_Acoustics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/Mansveld_Experience_Technology.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/TCL.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/Tue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/VAA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/Vrienden_Tunafestival.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/bazelmans.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/city-dynamiek.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/crown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/cuarentuna-klein.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/cuarentuna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/cuarentuna.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/dearns.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/ehv365.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/frajaweb_logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/govers.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/hurks.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/logo_ABC_Media.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/marktbelangen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/old_sfse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/parkplaza.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/pga.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/prinsbernhard.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/rabo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/rombouts.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/sfse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/straten.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/tcl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/thicor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/thisiseindhoven.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/tielemans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/tunina.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/BottomBanner/vijverman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/cde.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/citydynamiek.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/ehv365.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/fontys.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/fsfe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/govers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/old_sfse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/tue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/vaa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/vanaken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/vanstraten.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/suckerfish-current.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/suckerfish-expand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tcl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tunina.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermodules3-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vijverman.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation-flex.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation-flex.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation-flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation-rtl.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation-rtl.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/foundation.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/foundation-flex.css" afterPath="$PROJECT_DIR$/assets/foundation-flex.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/foundation-flex.css.map" afterPath="$PROJECT_DIR$/assets/foundation-flex.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/foundation-rtl.css" afterPath="$PROJECT_DIR$/assets/foundation-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/foundation-rtl.css.map" afterPath="$PROJECT_DIR$/assets/foundation-rtl.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/foundation.css" afterPath="$PROJECT_DIR$/assets/foundation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/foundation.css.map" afterPath="$PROJECT_DIR$/assets/foundation.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation.css" afterPath="$PROJECT_DIR$/scss/foundation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation.css.map" afterPath="$PROJECT_DIR$/scss/foundation.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation.scss" afterPath="$PROJECT_DIR$/scss/foundation.scss" />
     </list>
     <ignored path="Tunafestivalwebstie.iws" />
@@ -200,28 +32,82 @@
     <favorites_list name="Tunafestivalwebstie" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="foundation.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/foundation.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="104" column="82" selection-start-line="104" selection-start-column="82" selection-end-line="104" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ontwerp-festival.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ontwerp-festival.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-270">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1467469789000" expanded="true" signature="1436:1497" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="1524:1612" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="14949:15008" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17294:17373" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17406:17487" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17620:17654" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17704:17742" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="foundation.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/scss/foundation.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="745">
+                  <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ecommerce.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ecommerce.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="40" column="26" selection-start-line="33" selection-start-column="0" selection-end-line="49" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="ontwerp-festival.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ontwerp-festival.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="162" column="60" selection-start-line="162" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+                  <folding>
+                    <marker date="1467469789000" expanded="true" signature="1436:1497" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="1524:1612" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="14949:15008" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17294:17373" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17406:17487" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17620:17654" ph="..." />
+                    <marker date="1467469789000" expanded="true" signature="17704:17742" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -232,6 +118,7 @@
         <option value="$PROJECT_DIR$/assets/foundation.css" />
         <option value="$PROJECT_DIR$/dist/foundation.js" />
         <option value="$PROJECT_DIR$/meh/scss/app.scss" />
+        <option value="$PROJECT_DIR$/ecommerce.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/foundation.scss" />
       </list>
@@ -294,120 +181,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Tunafestivalwebstie" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customizer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation-rtl.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation-flex.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tunafestivalwebstie" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundation.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -481,12 +254,12 @@
       <workItem from="1467564815796" duration="7000" />
       <workItem from="1467573518553" duration="1358000" />
       <workItem from="1467576761363" duration="24000" />
-      <workItem from="1467576786272" duration="1172000" />
+      <workItem from="1467576786272" duration="3576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2628000" />
+    <option name="totallyTimeSpent" value="5032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -531,7 +304,6 @@
     <entry file="file://$PROJECT_DIR$/index2.html" />
     <entry file="file://$PROJECT_DIR$/scss/_global.scss" />
     <entry file="file://$PROJECT_DIR$/dist/foundation.js" />
-    <entry file="file://$PROJECT_DIR$/LICENSE" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/code-of-conduct.md" />
     <entry file="file://$PROJECT_DIR$/dist/foundation.css" />
@@ -595,18 +367,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/foundation.scss">
+    <entry file="file://$PROJECT_DIR$/scss/foundation.css.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="104" column="82" selection-start-line="104" selection-start-column="82" selection-end-line="104" selection-end-column="82" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/real-estate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontwerp-festival.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467469789000" expanded="true" signature="1436:1497" ph="..." />
+            <marker date="1467469789000" expanded="true" signature="1524:1612" ph="..." />
+            <marker date="1467469789000" expanded="true" signature="14949:15008" ph="..." />
+            <marker date="1467469789000" expanded="true" signature="17294:17373" ph="..." />
+            <marker date="1467469789000" expanded="true" signature="17406:17487" ph="..." />
+            <marker date="1467469789000" expanded="true" signature="17620:17654" ph="..." />
+            <marker date="1467469789000" expanded="true" signature="17704:17742" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="26" selection-start-line="33" selection-start-column="0" selection-end-line="49" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="270">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/foundation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
           <folding />
         </state>
       </provider>

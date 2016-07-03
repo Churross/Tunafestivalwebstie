@@ -103,4 +103,17 @@
 
 body{
   background: url(../images/background-festival.jpg) no-repeat fixed center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+section.content{
+  background: #fff;
+  padding: 10px;
+}
+
+img{
+  min-width: 100%;
 }
