@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;GAKG;AAkGH,IAAI;EACF,UAAU,EAAE,oEAAoE",
+"sources": ["foundation.scss"],
+"names": [],
+"file": "foundation.css"
+}
