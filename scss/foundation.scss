@@ -113,25 +113,14 @@ body{
   position: relative;
   display: block;
   height: 70%;
+  overflow: hidden;
 }
 
 section.content{
   background: #fff;
+  overflow: hidden;
   padding: 10px;
   position: relative;
-}
-
-.orbit img{
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-}
-
-.orbit{
-  margin-top: 5%;
-  margin-bottom: 0;
-  height: auto;
 }
 
 .top-bar{
@@ -141,4 +130,23 @@ section.content{
 
 .dropdown menu{
   background: #BD4B29;
+}
+
+.foto-container{
+  overflow: hidden;
+  height: auto;
+  width: auto;
+  margin-top: 2.5%;
+}
+
+.foto-container img{
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  width:auto;
+  height:auto;
+  overflow: hidden !important;
+  position: relative;
+  display: block;
 }
