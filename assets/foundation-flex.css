@@ -28,6 +28,10 @@ section.content {
   background: #BD4B29;
   color: white; }
 
+.menu {
+  background: #BD4B29;
+  color: white; }
+
 .dropdown menu {
   background: #BD4B29; }
 
@@ -2352,7 +2356,7 @@ select {
   left: 100%;
   min-width: 200px;
   z-index: 1;
-  background: #fefefe;
+  background: #BD4B29;
   border: 1px solid #cacaca; }
   .is-dropdown-submenu .is-dropdown-submenu-parent > a::after {
     right: 14px;
@@ -3235,7 +3239,7 @@ table.hover tr:nth-of-type(even):hover {
   flex-wrap: wrap; }
   .top-bar,
   .top-bar ul {
-    background-color: #e6e6e6; }
+    background-color: #BD4B29; }
   .top-bar input {
     max-width: 200px;
     margin-right: 1rem; }

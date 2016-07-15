@@ -28,6 +28,10 @@ section.content {
   background: #BD4B29;
   color: white; }
 
+.menu {
+  background: #BD4B29;
+  color: white; }
+
 .dropdown menu {
   background: #BD4B29; }
 
@@ -2657,7 +2661,7 @@ select {
   right: 100%;
   min-width: 200px;
   z-index: 1;
-  background: #fefefe;
+  background: #BD4B29;
   border: 1px solid #cacaca; }
   .is-dropdown-submenu .is-dropdown-submenu-parent > a::after {
     left: 14px;
@@ -3537,7 +3541,7 @@ table.hover tr:nth-of-type(even):hover {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: #e6e6e6; }
+    background-color: #BD4B29; }
   .top-bar input {
     max-width: 200px;
     margin-left: 1rem; }
