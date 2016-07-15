@@ -8,7 +8,7 @@ $accordionmenu-arrows: true !default;
 
 /// Sets accordion menu arrow color if arrow is used.
 /// @type Color
-$accordionmenu-arrow-color: $primary-color !default;
+$accordionmenu-arrow-color: $white;
 
 @mixin foundation-accordion-menu {
   @if $accordionmenu-arrows {
