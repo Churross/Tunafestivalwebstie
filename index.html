@@ -4,13 +4,28 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Home</title>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
     <link rel="stylesheet" href="scss/foundation.css">
+
+    <!--Sponsor scroller-->
+    <!--<script src="http://code.jquery.com/jquery-latest.js"></script>-->
+    <script src="jquery.bxSlider.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#slider').bxSlider({
+                ticker: true,
+                tickerSpeed: 7500,
+                tickerHover: true
+            });
+        });
+    </script>
+
 </head>
 <body>
 
 <!-- We can now combine rows and columns when there's only one column in that row -->
-<div class="row medium-8 large-7 columns">
+<div class="row medium-10 large-8 columns">
     <div class="foto-container">
         <img class="bannerSlides" src="images/banner/2016/Tunafestival2016_banners_01.gif">
         <img class="bannerSlides" src="images/banner/2016/Tunafestival2016_banners_02.gif">
@@ -34,10 +49,8 @@
         <img class="bannerSlides" src="images/banner/2016/Tunafestival2016_banners_10.gif">
         <img class="bannerSlides" src="images/banner/2016/Tunafestival2016_banners_21.gif">
         <img class="bannerSlides" src="images/banner/2016/Tunafestival2016_banners_22.gif">
-
     </div>
     <div class="content-container">
-
         <!-- Start Top Bar -->
         <!--<div class="title-bar" data-responsive-toggle="main" data-hide-for="small">-->
         <!--<button class="menu-icon" type="button" data-toggle></button>-->
@@ -71,58 +84,102 @@
         <!-- End Top Bar -->
 
         <section class="content">
-            <div class="blog-post">
-                <h3>Awesome blog post title <small>3/6/2015</small></h3>
-                <img class="thumbnail" src="http://placehold.it/850x350">
-                <p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
-                <div class="callout">
-                    <ul class="menu simple">
-                        <li><a href="#">Author: Mike Mikers</a></li>
-                        <li><a href="#">Comments: 3</a></li>
-                    </ul>
-                </div>
-            </div>
+            <div id="jsn-content">
+                <div id="jsn-content_inner1">
+                    <div id="jsn-content_inner2">
 
-            <div class="blog-post">
-                <h3>Awesome blog post title <small>3/6/2015</small></h3>
-                <img class="thumbnail" src="http://placehold.it/850x350">
-                <p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
-                <div class="callout">
-                    <ul class="menu simple">
-                        <li><a href="#">Author: Mike Mikers</a></li>
-                        <li><a href="#">Comments: 3</a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="blog-post">
-                <h3>Awesome blog post title <small>3/6/2015</small></h3>
-                <img class="thumbnail" src="http://placehold.it/850x350">
-                <p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
-                <div class="callout">
-                    <ul class="menu simple">
-                        <li><a href="#">Author: Mike Mikers</a></li>
-                        <li><a href="#">Comments: 3</a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="blog-post">
-                <h3>Awesome blog post title <small>3/6/2015</small></h3>
-                <img class="thumbnail" src="http://placehold.it/850x350">
-                <p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
-                <div class="callout">
-                    <ul class="menu simple">
-                        <li><a href="#">Author: Mike Mikers</a></li>
-                        <li><a href="#">Comments: 3</a></li>
-                    </ul>
+                        <!--left banner-->
+                        <div class="large-2 columns show-for-large">
+                            <div id="jsn-leftsidecontent" class="jsn-column">
+                                <div id="jsn-pleft">
+                                    <div class="module">
+                                        <div id="leftContent">
+                                            <h3>Laatste nieuws</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div>
+                        <!--main content-->
+                        <div class="small-12 large-8      columns">
+                            <div id="jsn-maincontent" class="jsn-column">
+                                <div id="jsn-maincontent_inner">
+                                    <div id="jsn-mainbody">
+                                        <div id="mainContent">
+                                            <h1>&nbsp;Noche de Tuna 2010</h1>
+                                            <p style="TEXT-ALIGN: center">
+                                                <img src="images/noche2008.jpg" border="0" />
+                                            </p>
+                                            <p>Op vrijdag 17 en zaterdag&nbsp;18 september 2010 krijgt
+                                                Eindhoven weer Spaanse Tuna-groepen op bezoek voor de 'Noche
+                                                de Tuna IV'! Op vrijdagavond zijn vier kroegen in het centrum
+                                                van Eindhoven het decor voor de vrolijke studentenliedjes en
+                                                subtiele serenades. Op zaterdagmiddag strijden de 4 Spaanse
+                                                Tunagroepen op een vriendschappelijke wijze om een aantal
+                                                muzikale prijzen. Eindhoven’s Tuna groepen, Tuna Ciudad de Luz
+                                                en La Tuniña, zullen ook op het podium staan. Dit Spaans feestje
+                                                vindt op zaterdag plaats rondom de kiosk en het stadspaviljoen.
+                                                De Tuna groepen zullen hier de muziek verzorgen en u kunt er
+                                                genieten van de Spaanse hapjes, drankjes en gezelligheid.
+                                            </p>
+                                            <p style="text-align: center;">
+                                                <img src="images/kroeg2009.jpg" border="0" width="454" height="304" />
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--right banner-->
+                        <div class="medium-2 columns show-for-large">
+                            <div id="jsn-rightsidecontent" class="jsn-column">
+                                <div id="jsn-pright">
+                                    <div id="rightContent">
+                                        <h1>Right menu</h1>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearbreak">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
+        <div class="row">
+            <div class="small-12 columns">
+                <div class="footer">
+                    <!-- slider -->
+                    <div class="slider-container">
+                        Tunafestival 2016 wordt mede mogelijk gemaakt door,...
+                        <ul id="slider">
+                            <li><a href="http://www.tue.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/Tue.gif" border="0" alt="Technische Universiteit Eindhoven" title="Technische Universiteit Eindhoven"></a></li>
+                            <li><a href="http://www.eindhoven365.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/ehv365.jpg" target="_blank" height="80" border="0" alt=" Eindhoven 365" title=" Eindhoven 365"></a></li>
+                            <li><a href="http://www.eindhovencentrumwerkt.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/thisiseindhoven.gif" target="_blank" height="80" border="0" alt=" Stichting Ondernemersfonds Eindhoven Centrum" title=" Stichting Ondernemersfonds Eindhoven Centrum"></a></li>
+                            <li><a href="http://www.bazelmans.com"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/bazelmans.jpg" target="_blank" height="80" border="0" alt=" Bazelmans Audio Visual Rentals" title=" Bazelmans Audio Visual Rentals"></a></li>
+                            <li><a href="http://www.hurks.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/Hurks2.jpg" target="_blank" border="0" alt=" Hurks" title=" Hurks"></a></li>
+                            <li><a href="http://www.vme-eindhoven.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/marktbelangen.jpg" target="_blank" border="0" alt=" Vereniging Marktbelangen Eindhoven" title=" Vereniging Marktbelangen Eindhoven"></a></li>
+                            <li><a href="http://www.tunacl.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/tcl.gif" border="0" alt="Tuna Ciudad de Luz" title="Tuna Ciudad de Luz"></a></li>
+                            <li><a href="http://www.tunina.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/tunina.gif" border="0" alt=" La Tuni�a" title=" La Tuni�a"></a></li>
+                            <li><a href="http://www.tunafestival.nl/sponsoring/vriend-van-het-tunafestival"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/Vrienden_Tunafestival.gif" border="0" alt="Vrienden van het Tunafestival" title="Vrienden van het Tunafestival"></a></li>
+                            <li><a href="http://www.frajaweb.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/frajaweb_logo.gif" border="0" alt=" FraJa WeB" title=" FraJa WeB"></a></li>
+                            <!--<li><a href="http://www.tue.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/Tue.gif" border="0" alt="Technische Universiteit Eindhoven" title="Technische Universiteit Eindhoven"></a></li>-->
+                            <!--<li><a href="http://www.eindhoven365.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/ehv365.jpg" target="_blank" height="80" border="0" alt=" Eindhoven 365" title=" Eindhoven 365"></a></li>-->
+                            <!--<li><a href="http://www.eindhovencentrumwerkt.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/thisiseindhoven.gif" target="_blank" height="80" border="0" alt=" Stichting Ondernemersfonds Eindhoven Centrum" title=" Stichting Ondernemersfonds Eindhoven Centrum"></a></li>-->
+                            <!--<li><a href="http://www.bazelmans.com"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/bazelmans.jpg" target="_blank" height="80" border="0" alt=" Bazelmans Audio Visual Rentals" title=" Bazelmans Audio Visual Rentals"></a></li>-->
+                            <!--<li><a href="http://www.hurks.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/Hurks2.jpg" target="_blank" border="0" alt=" Hurks" title=" Hurks"></a></li>-->
+                            <!--<li><a href="http://www.vme-eindhoven.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/marktbelangen.jpg" target="_blank" border="0" alt=" Vereniging Marktbelangen Eindhoven" title=" Vereniging Marktbelangen Eindhoven"></a></li>-->
+                            <!--<li><a href="http://www.tunacl.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/tcl.gif" border="0" alt="Tuna Ciudad de Luz" title="Tuna Ciudad de Luz"></a></li>-->
+                            <!--<li><a href="http://www.tunina.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/tunina.gif" border="0" alt=" La Tuni�a" title=" La Tuni�a"></a></li>-->
+                            <!--<li><a href="http://www.tunafestival.nl/sponsoring/vriend-van-het-tunafestival"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/Vrienden_Tunafestival.gif" border="0" alt="Vrienden van het Tunafestival" title="Vrienden van het Tunafestival"></a></li>-->
+                            <!--<li><a href="http://www.frajaweb.nl"><img src="http://www.tunafestival.nl/fileadmin/template/images/sponsors/BottomBanner/frajaweb_logo.gif" border="0" alt=" FraJa WeB" title=" FraJa WeB"></a></li>-->
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
-
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
 <script>
     $(document).foundation();
